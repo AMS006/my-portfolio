@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Mail, Phone, MapPin, ExternalLink, Github, Linkedin, Code, Database, Cloud, Brain, Award, Calendar, Building, GraduationCap, User, Briefcase, FolderOpen, Star } from 'lucide-react';
 
+// test comit
 const Portfolio = () => {
   const [activeSection, setActiveSection] = useState('hero');
   const [isVisible, setIsVisible] = useState({});
