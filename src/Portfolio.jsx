@@ -199,7 +199,7 @@ const Portfolio = () => {
                       <h3 className="text-xl font-semibold">Certifications</h3>
                     </div>
                     <a
-                      href="#" // Replace with your certificate link
+                      href="https://learn.microsoft.com/api/credentials/share/en-us/AnasSain-5365/D0143A5D60A56E83?sharingId"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-white/5 p-4 rounded-xl hover:bg-white/10 transition-colors"
